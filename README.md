@@ -3,6 +3,7 @@
 
 A bunch of nicely described and categorized [Twitter Bootstrap](http://twitter.github.com/bootstrap/) code snippets for [Sublime Text](http://sublimetext.com) editor.
 
+
 ## Installation
 *1.*  Clone the repository into your packages folder.
 
